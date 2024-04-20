@@ -14,7 +14,7 @@ This repository hosts a notebook featuring an in-depth analysis of several breas
 
 The dataset used has been downloaded from the [Wisconsin Breast Cancer Database](https://archive.ics.uci.edu/dataset/17/breast+cancer+wisconsin+diagnostic) and contains a set of Benign and Malignant cancers.
 
-This project has been developed as part of the **Advanced Data Science with IBM Specialization**.
+This project has been developed as part of the **Advanced Data Science with IBM Specialization**. Feel free to ⭐ and clone this repo 😉
 
 ## 👨‍💻 **Tech Stack**
 
