@@ -1,4 +1,4 @@
-﻿# BREAST CANCER CLASIFFICATION 🗞️
+﻿# BREAST CANCER CLASSIFICATION 🗞️
 
 <p align="center">
     <img src="images/cover.png" width="500" height="400"/>
